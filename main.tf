@@ -1,6 +1,3 @@
-provider "azurerm" {
-  # No "features" argument here
-}
 terraform {
   required_providers {
     azurerm = {

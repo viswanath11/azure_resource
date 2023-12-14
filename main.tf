@@ -1,5 +1,5 @@
 provider "azurerm" {
-  features = {}
+  # No "features" argument here
 }
 terraform {
   required_providers {
